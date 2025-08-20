@@ -12,14 +12,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-[![LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%AA-b%C3%ACnh-an-an-nguyen-284a03360/)  
-[![Facebook](https://facebook.com/yourprofile](https://www.facebook.com/nguyen.le.binh.an.981062))  
-[![GitHub]((https://github.com/nguyenlebinhan))
-
----
-
 ### 🧠 Tech Stack
 
 ```text
